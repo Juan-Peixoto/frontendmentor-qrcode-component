@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution]()
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub/sass-and-mobile-first-workflow-6055gpuo1J)
 - Live Site URL: [See live version here](https://juan-peixoto.github.io/frontendmentor-qrcode-component/)
 
 ## My process
