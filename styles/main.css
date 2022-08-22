@@ -1,0 +1,72 @@
+* {
+  padding: 0;
+  margin: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-size: 100%;
+}
+
+html, body {
+  width: 100vw;
+}
+
+body {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  background-color: #d6e2f0;
+  height: 100vh;
+}
+
+body > div {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  background-color: white;
+  border-radius: 15px;
+  height: 520px;
+  max-width: 330px;
+  padding: 15px;
+}
+
+body > div img {
+  height: 63%;
+  width: 100%;
+  margin-bottom: 20px;
+  border-radius: 10px;
+}
+
+body > div h2 {
+  font-size: 24px;
+  font-family: "Outfit", sans-serif;
+  width: 95%;
+  font-size: 1.5em;
+  color: #1f3251;
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+body > div p {
+  font-size: 15px;
+  font-family: "Outfit", sans-serif;
+  font-weight: 400;
+  width: 90%;
+  line-height: 24px;
+  text-align: center;
+  color: #7b879d;
+}
+/*# sourceMappingURL=main.css.map */
