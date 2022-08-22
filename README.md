@@ -41,7 +41,6 @@ Users should be able to:
 - Mobile-first workflow
 - SASS pre processor
 - Google Fonts
-- Vanilla Javascript
 
 ## Author
 - Frontend Mentor - [@Juan-Peixoto](https://www.frontendmentor.io/profile/Juan-Peixoto)
